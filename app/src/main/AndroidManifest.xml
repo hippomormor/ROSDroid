@@ -16,6 +16,7 @@
         android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
         android:theme="@style/AppTheme"
+        android:screenOrientation="locked"
         android:configChanges="orientation|keyboardHidden">
         <service
             android:name=".MusicService"
@@ -26,16 +27,22 @@
                 <action android:name="org.ros.android.NodeMainExecutorService" />
             </intent-filter>
         </service>
-        <activity android:name=".MainActivity">
+        <activity android:screenOrientation="locked" android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="org.ros.android.MasterChooser" />
-        <activity android:name=".GameActivity"/>
-        <activity android:name=".OptionsActivity"/>
+        <activity
+            android:screenOrientation="locked"
+            android:name="org.ros.android.MasterChooser" />
+        <activity
+            android:screenOrientation="locked"
+            android:name=".GameActivity"/>
+        <activity
+            android:screenOrientation="locked"
+            android:name=".OptionsActivity"/>
 
     </application>
 </manifest>

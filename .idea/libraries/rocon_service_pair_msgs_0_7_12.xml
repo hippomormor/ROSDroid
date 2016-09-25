@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rocon_service_pair_msgs-0.7.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/rocon_service_pair_msgs/0.7.12/rocon_service_pair_msgs-0.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

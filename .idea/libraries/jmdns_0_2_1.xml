@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmdns-0.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Sources/android_interactions/devel/share/maven/com/github/rosjava/zeroconf_jmdns_suite/jmdns/0.2.1/jmdns-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

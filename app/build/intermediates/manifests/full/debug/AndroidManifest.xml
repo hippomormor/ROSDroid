@@ -17,11 +17,13 @@
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
         android:configChanges="orientation|keyboardHidden"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:screenOrientation="locked"
         android:theme="@style/AppTheme" >
         <service
             android:name="com.app.org.MusicService"
@@ -33,16 +35,24 @@
             </intent-filter>
         </service>
 
-        <activity android:name="com.app.org.MainActivity" >
+        <activity
+            android:name="com.app.org.MainActivity"
+            android:screenOrientation="locked" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="org.ros.android.MasterChooser" />
-        <activity android:name="com.app.org.GameActivity" />
-        <activity android:name="com.app.org.OptionsActivity" />
+        <activity
+            android:name="org.ros.android.MasterChooser"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.app.org.GameActivity"
+            android:screenOrientation="locked" />
+        <activity
+            android:name="com.app.org.OptionsActivity"
+            android:screenOrientation="locked" />
         <activity
             android:name="org.ros.android.android_10.MasterChooser"
             android:label="@string/app_name"

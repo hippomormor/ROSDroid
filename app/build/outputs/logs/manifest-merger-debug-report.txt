@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-41:12
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:4:7-28
 		INJECTED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml
@@ -44,7 +44,7 @@ MERGED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces
 	android:name
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:12:22-78
 application
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:14:5-40:19
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:14:5-47:19
 MERGED from [org.ros.android_core:android_15:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/AndroidManifest.xml:16:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
@@ -54,13 +54,17 @@ MERGED from [com.android.support:support-core-ui:24.2.1] /home/hippomormor/Works
 MERGED from [com.android.support:support-fragment:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:18:5-32:19
 MERGED from [com.github.rosjava.android_extras:gingerbread:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.github.rosjava.android_extras/gingerbread/0.2.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.rosjava.android_extras:zxing:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:design:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:19:9-43
 	android:label
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:16:9-41
 	android:configChanges
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:19:9-59
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:20:9-59
 	android:icon
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:17:9-43
 		REJECTED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:19:9-38
@@ -69,50 +73,58 @@ MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/hippomor
 	tools:replace
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:15:9-37
 service#com.app.org.MusicService
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:20:9-23:38
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:21:9-24:38
 	android:enabled
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:22:13-35
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:23:13-35
 	android:exported
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:23:13-36
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:24:13-36
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:21:13-41
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:22:13-41
 service#org.ros.android.NodeMainExecutorService
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:24:9-28:19
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:25:9-29:19
 MERGED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:27:9-31:19
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:24:18-72
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:25:18-72
 intent-filter#org.ros.android.NodeMainExecutorService
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:25:13-27:29
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:26:13-28:29
 action#org.ros.android.NodeMainExecutorService
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:26:17-82
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:27:17-82
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:26:25-79
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:27:25-79
 activity#com.app.org.MainActivity
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:29:9-35:20
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:screenOrientation
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:30:19-53
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:29:19-47
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:30:54-82
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:30:13-34:29
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:31:17-69
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:31:25-66
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:33:17-77
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:33:27-74
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:34:27-74
 activity#org.ros.android.MasterChooser
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:36:9-66
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:37:9-39:60
+	android:screenOrientation
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:38:13-47
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:36:19-63
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:39:13-57
 activity#com.app.org.GameActivity
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:37:9-49
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:40:9-42:43
+	android:screenOrientation
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:41:13-47
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:37:19-47
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:42:13-41
 activity#com.app.org.OptionsActivity
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:38:9-52
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:43:9-45:46
+	android:screenOrientation
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:44:13-47
 	android:name
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:38:19-50
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:45:13-44
 uses-sdk
 INJECTED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [org.ros.android_core:android_15:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/AndroidManifest.xml:7:5-9:41
@@ -123,10 +135,13 @@ MERGED from [com.android.support:support-core-utils:24.2.1] /home/hippomormor/Wo
 MERGED from [com.android.support:support-core-ui:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-fragment:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
 MERGED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_remocons:common_tools:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.github.rosjava.android_remocons/common_tools/0.2.0/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.rosjava.android_extras:gingerbread:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.github.rosjava.android_extras/gingerbread/0.2.0/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:design:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
@@ -148,4 +163,6 @@ ADDED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/
 	android:name
 		ADDED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:23:13-68
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-41:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12 reason: com.google.zxing has a targetSdkVersion < 4

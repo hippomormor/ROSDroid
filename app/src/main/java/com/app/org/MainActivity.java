@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
 import android.content.SharedPreferences;
-import android.hardware.Camera;
 import android.os.Bundle;
 import android.os.IBinder;
 import android.preference.PreferenceManager;
@@ -14,18 +13,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import org.ros.address.InetAddressFactory;
-import org.ros.android.RosActivity;
-import org.ros.node.NodeConfiguration;
-import org.ros.node.NodeMainExecutor;
 
-public class MainActivity extends RosActivity implements View.OnClickListener {
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button startButton, quitButton;
     boolean musicIsBound = false;
-    public GalgeNode galgeNode;
-    public MainActivity() {
-        super("ROS Galgeleg", "ROS Galgeleg");
-    }
 
     ServiceConnection serviceConnection = new ServiceConnection() {
         MusicService musicService;
@@ -53,13 +45,12 @@ public class MainActivity extends RosActivity implements View.OnClickListener {
     }
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         startButton = (Button) findViewById(R.id.startButton);
         quitButton = (Button) findViewById(R.id.quitButton);
-
         SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
         if (!preferences.contains("music")) {
             preferences.edit()
@@ -108,11 +99,4 @@ public class MainActivity extends RosActivity implements View.OnClickListener {
             System.exit(0);
     }
 
-    protected void init(NodeMainExecutor nodeMainExecutor) {
-
-        NodeConfiguration nodeConfiguration =
-                NodeConfiguration.newPublic(InetAddressFactory.newNonLoopback().getHostAddress());
-        nodeConfiguration.setMasterUri(getMasterUri());
-        //nodeMainExecutor.execute(, nodeConfiguration);
-    }
 }

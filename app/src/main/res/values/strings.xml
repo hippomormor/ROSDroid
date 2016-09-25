@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Galgeleg</string>
+    <string name="indstillinger">Indstillinger</string>
+    <string name="lyd">Lyd</string>
+    <string name="online">Online</string>
+    <string name="musik">Musik</string>
+    <string name="g_t_et_bogstav">Gæt et bogstav..</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="galgeleg_v3">Galgeleg v3</string>
 </resources>

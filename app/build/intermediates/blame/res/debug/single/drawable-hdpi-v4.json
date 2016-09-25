@@ -136,6 +136,10 @@
         "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/drawable-hdpi-v4/icon.png"
     },
     {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
         "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pan_tilt_follower.png",
         "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/res/drawable-hdpi-v4/pan_tilt_follower.png"
     },

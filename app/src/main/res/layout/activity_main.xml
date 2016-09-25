@@ -7,13 +7,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="org.hippomormor.galgeleg.MainActivity"
+    tools:context="com.app.org.MainActivity"
     android:background="#ffffff">
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Start"
+        android:text="@string/start"
         android:id="@+id/startButton"
         android:elevation="50dp"
         android:textStyle="bold"
@@ -25,7 +25,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Quit"
+        android:text="@string/quit"
         android:id="@+id/quitButton"
         android:textStyle="bold"
         android:layout_gravity="bottom"
@@ -37,11 +37,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Galgeleg v3"
+        android:text="@string/galgeleg_v3"
         android:id="@+id/mainmenuTitle"
         android:textStyle="bold|italic"
         android:textColor="#000000"
-        android:textSize="60dp"
+        android:textSize="60sp"
         android:textAlignment="center"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />

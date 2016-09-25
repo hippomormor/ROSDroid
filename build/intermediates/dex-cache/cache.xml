@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/netty-3.5.2.Final_ba2f0baa7c6d418c851ffbcaa852855a107e96ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f3034248036acf9214b1c83f8f83d17cc23b0e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_32ea8b04c5d0782b0ade72fa81b13ba322dd79ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0ee6507e580466701829c34a31999e61fbb67fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_81d296b70ed0675ab227accd52b114e198b0ee49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/rosjava_test_msgs/0.1.27/rosjava_test_msgs-0.1.27.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9461c6dd8605679e64c1587fd32dff8400c382cd">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.1.27_bbac25572512831e63765666a91edadecfd30e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_common/0.2.0/apache_xmlrpc_common-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="362ffbdc93c788bfbe23571500730065c910c4b5">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.2.0_958e949e07a7453c13dbe52751b1e49c31052298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_3ddfb7d3057bf1c00ee33fc261cda777f4045aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0_46b6055722391e68b6ee5387e64284bb22638e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_bootstrap/gradle_plugins/0.2.1/gradle_plugins-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="33c05915db7ef72ac3978d33b16abd1b4b06fec9">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/gradle_plugins-0.2.1_2fb5bd099009b4dab53d740c8efdba00ba30ecd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/geometry_msgs/1.12.4/geometry_msgs-1.12.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="89387d8d8334d42dc5dce5acf73d49118e14f02d">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/geometry_msgs-1.12.4_6f399361972f7dbdeb22463ec28092375208c3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/commons-pool-1.6_e770766f5204c89869bcadc493b6b9e5ac230bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/actionlib_msgs/1.10.6/actionlib_msgs-1.10.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b308d1cd05e2823cb33e066c34033f52f718d7d">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/actionlib_msgs-1.10.6_c22d1a63ec6bdeda21c546c0126b87b65ba0aed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/std_msgs/0.5.10/std_msgs-0.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="473d7587b4094d868de31d4a2a6f4f79f54e5748">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/std_msgs-0.5.10_6ee8fdb60a20ecd5f4d86aad3cd2d257d6bc8967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_6a249feb9fcca577a1942e32bca44343a2373935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9d7a744bfa2670913d46a3e1eafe7d41955d4249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/nav_msgs/1.10.6/nav_msgs-1.10.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ff4a3dcc4552384e9967bcb9910cb18550f3f03">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/nav_msgs-1.10.6_7129f44a4a3bc568e1db5ab4cfaa1a4bd1c8db72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0_70e3b305b7b1397704d6c8857e1b353df6d1bb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_bootstrap/message_generation/0.2.1/message_generation-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc3afb66cd5aa168a71bcb63ba89560b197b9300">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/message_generation-0.2.1_00d9c10419e2316ce9af962927e8eec7aa6c75da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_84513728ab0fce378a6d5d3ef8bd233a59acc2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/diagnostic_msgs/1.12.4/diagnostic_msgs-1.12.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f1c9963b4622826e6d7a73549bb16343650b5eb">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.12.4_406b6e5f05fecffdf051dea4500a8c1f6ed57328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1_0968c6b4e530b14ade613215927258770746b3b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/tf2_msgs/0.4.12/tf2_msgs-0.4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba0d30709083c01736b9b3ceb24b628149d77baa">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/tf2_msgs-0.4.12_f62f2a9e3e88e5c782e89258164ffea8140ec5b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0_8b4c636a77956f814977aa4b47dbbf5fcb1c7a38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/dnsjava-2.1.1_21f27122bbef1385611f499f6af83240cec1042a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_521f98c82304cb2ea8f903b354d3fd9eb19a0ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/guava-12.0_414e3b4978fbc74e3069447d90b8bca0e6cf98fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac7f7fc67c122a1c1d8bff7701feb667dc761e5d">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/org.ros.android_core-android_10-0.2.0_3960bf09e749b69d5d4a01fd350f2ff623127eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_9122ec5a96fb0ccc78b3a7234eca3249020efe10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_20c8e57c989a40f46c4cc04fbdc31da49fbf731b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/a7c156ef67bdc69ae36a9c70adf7b8ca2633132c/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7c156ef67bdc69ae36a9c70adf7b8ca2633132c">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0_b9f698c05cda836342c47059cab74e9b7d89fbbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_server/0.2.0/apache_xmlrpc_server-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3c6fc1dda6a34cc6b03164af62322009c267aee">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.2.0_f6cff1bbd34c999a3e54c25fd3d2580c58a5be09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0_b78807a0147baa0dec9a687e072b3a799cb469b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1_2af119ff29fa60480692de1fa7702df05911a025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_32abe6dd56f23848bab4332326140b6cd7b1eedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1ddcbc90335fceb6ac3955261f229a749e9b3188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_core/rosjava/0.2.0/rosjava-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="972835fa4846fb03c34e1cc243344101f6975f49">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/rosjava-0.2.0_483c2e644beb93d12bc671df7e6033786099240a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_74430b3eb8f22faf006c68aa2fe19274a1472fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_1e83efc6887d71e5b7869a91e3adc46af75d7c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/sensor_msgs/1.12.4/sensor_msgs-1.12.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c9d6e46686bdd19c3c12c3849b429bd7c034f98">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/sensor_msgs-1.12.4_73e29cbfaef2c1cef6d4d2072c234c3d85395b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_core/apache_xmlrpc_client/0.2.0/apache_xmlrpc_client-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="442a219441c312f0fe2d8c7603638482b525e5dc">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.2.0_46bef02a729e5a16d63d08fc58e8195c159adc73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Sources/android_interactions/devel/share/maven/org/ros/rosjava_messages/rosgraph_msgs/1.9.50/rosgraph_msgs-1.9.50.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5bda692b5f32449d109eb8ac74cc77a23ff78dc7">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.9.50_1fdee0e1edca4a1473be9a3a50c8cf8c70dc30fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9d1fbcea43cf217249f0d25794086c35bff563b7.jar" />
+    </item>
+
+</items>

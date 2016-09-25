@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/bad.mp3",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/bad.mp3"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/music.mp3",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/music.mp3"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/wrong.mp3",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/wrong.mp3"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/correct.mp3",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/correct.mp3"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/good.mp3",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/good.mp3"
+    }
+]

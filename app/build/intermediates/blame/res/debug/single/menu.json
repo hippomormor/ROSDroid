@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/menu/options.xml",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/menu/options.xml"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/menu/menu.xml"
+    }
+]

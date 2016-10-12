@@ -1,6 +1,7 @@
 package com.app.org;
 
 import android.annotation.SuppressLint;
+import android.app.Activity;
 import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.os.AsyncTask;
@@ -9,13 +10,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class LogicHandler {
-    private GameActivity gameActivity;
+    private Activity gameActivity;
     private Logic logic;
     private TextView resultView, infoView, inputText;
     private ImageView imageView;
     private SharedPreferences preferences;
 
-    public LogicHandler(GameActivity gameActivity) {
+    public LogicHandler(Activity gameActivity) {
         this.gameActivity = gameActivity;
 
         preferences = PreferenceManager.getDefaultSharedPreferences(gameActivity);

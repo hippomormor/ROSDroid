@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:4:7-28
 		INJECTED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml
@@ -44,7 +44,7 @@ MERGED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces
 	android:name
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:12:22-78
 application
-ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:14:5-47:19
+ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:14:5-46:19
 MERGED from [org.ros.android_core:android_15:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.2.0/AndroidManifest.xml:16:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
@@ -69,7 +69,7 @@ MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/hippomor
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:17:9-43
 		REJECTED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:19:9-38
 	android:theme
-		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:18:9-40
+		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:18:9-47
 	tools:replace
 		ADDED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:15:9-37
 service#com.app.org.MusicService
@@ -163,6 +163,6 @@ ADDED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/
 	android:name
 		ADDED from [org.ros.android_core:android_10:0.2.0] /home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/AndroidManifest.xml:23:13-68
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-47:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE
 android:uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-48:12 reason: com.google.zxing has a targetSdkVersion < 4
+IMPLIED from /home/hippomormor/Workspaces/app/src/app/app/src/main/AndroidManifest.xml:2:1-47:12 reason: com.google.zxing has a targetSdkVersion < 4

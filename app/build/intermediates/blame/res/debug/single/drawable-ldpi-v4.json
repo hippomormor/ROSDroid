@@ -6,5 +6,9 @@
     {
         "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
         "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.2.0/res/drawable-ldpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     }
 ]

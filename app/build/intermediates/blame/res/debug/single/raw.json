@@ -4,6 +4,10 @@
         "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/bad.mp3"
     },
     {
+        "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/res/raw/gtm_analytics"
+    },
+    {
         "merged": "/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/merged/debug/raw/music.mp3",
         "source": "/home/hippomormor/Workspaces/app/src/app/app/src/main/res/raw/music.mp3"
     },

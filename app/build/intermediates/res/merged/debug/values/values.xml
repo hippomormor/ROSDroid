@@ -560,6 +560,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="g_t_et_bogstav">Gæt et bogstav..</string>
     <string name="galgeleg_v3">Galgeleg v3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="indstillinger">Indstillinger</string>
     <string name="lyd">Lyd</string>
     <string name="master_uri_hint">http://localhost:11311/</string>

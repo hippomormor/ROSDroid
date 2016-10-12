@@ -8,4 +8,7 @@
     <string name="start">Start</string>
     <string name="quit">Quit</string>
     <string name="galgeleg_v3">Galgeleg v3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

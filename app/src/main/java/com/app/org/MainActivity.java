@@ -8,17 +8,21 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.IBinder;
 import android.preference.PreferenceManager;
+import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
+import org.ros.node.NodeConfiguration;
+
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button startButton, quitButton;
     boolean musicIsBound = false;
 
+    MusicService musicService;
     ServiceConnection serviceConnection = new ServiceConnection() {
         MusicService musicService;
 
@@ -99,4 +103,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             System.exit(0);
     }
 
+    @Override
+    public void onPanelClosed(int featureId, Menu menu) {
+        musicService.pauseMusic();
+        super.onPanelClosed(featureId, menu);
+    }
 }

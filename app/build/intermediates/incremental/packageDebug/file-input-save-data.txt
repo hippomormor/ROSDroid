@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 01:27:33 CEST 2016
+#Thu Sep 29 00:02:20 CEST 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/META-INF/jboss-beans.xml
@@ -67,7 +67,7 @@
 73.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_
 229.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_big_media.xml
 225.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_
-204.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+204.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
 127.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_vector_test.xml
 63.set=ANDROID_RESOURCE
 6.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_
@@ -140,7 +140,7 @@
 27.set=ANDROID_RESOURCE
 74.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_
 226.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_
-205.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+205.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
 128.file=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_/res/color-v23/abc_tint_spinner.xml
 73.set=ANDROID_RESOURCE
 7.base=/home/hippomormor/Workspaces/app/src/app/app/build/intermediates/res/resources-debug.ap_

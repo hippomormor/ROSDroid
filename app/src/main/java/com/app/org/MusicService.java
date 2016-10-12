@@ -9,7 +9,9 @@ import android.os.IBinder;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-public class MusicService extends Service implements MediaPlayer.OnErrorListener {
+import org.ros.android.NodeMainExecutorService;
+
+public class MusicService extends NodeMainExecutorService implements MediaPlayer.OnErrorListener {
 
     private final IBinder mediaBinder;
     private MediaPlayer mediaPlayer;

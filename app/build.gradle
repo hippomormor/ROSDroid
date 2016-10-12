@@ -28,7 +28,7 @@
 */
 
 dependencies {
-  //compile project(':local_android_library_dependency')
+    //compile project(':local_android_library_dependency')
     compile 'org.ros.android_core:android_10:[0.2,0.3)'
     compile 'org.ros.android_core:android_15:[0.2,0.3)'
     compile 'com.github.rosjava.android_extras:gingerbread:[0.2,0.3)'
@@ -38,6 +38,7 @@ dependencies {
     compile 'org.ros.rosjava_core:rosjava_tutorial_pubsub:[0.1,0.2)'
     compile 'org.ros.rosjava_messages:std_msgs:[0.5,0.6)'
     compile 'com.android.support:design:24.2.1'
+    compile 'com.android.support:support-v4:24.2.1'
 }
 
 
